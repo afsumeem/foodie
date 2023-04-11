@@ -1,4 +1,4 @@
 # Foodie
 
-Foodie Live Site [Angular CLI](https://foodie-angular.netlify.app/)
+Foodie Live Site [Foodie](https://foodie-angular.netlify.app/)
 
